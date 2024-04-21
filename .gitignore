@@ -6,3 +6,5 @@ sierra_quote.log
 ElectriPi-backups/*
 fp-info-cache
 *.lck
+*.step
+*.stp

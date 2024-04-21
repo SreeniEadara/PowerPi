@@ -761,6 +761,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "C:/Users/4iron/Documents/KiCad/7.0/3dmodels/TerminalBlock_bornier-2_P5.08mm.step"
+      (offset (xyz 2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "RPW0010A:Texas_VQFN-HR-10_2x2mm_P0.475mm" (layer "F.Cu")
@@ -1978,6 +1983,11 @@
       (net 44 "Net-(D1-A2)") (pintype "passive") (tstamp 373691b9-68eb-44d1-ba08-68bbd99394c6))
     (pad "2" thru_hole circle (at 13.5 3.4) (size 2.78 2.78) (drill 1.78) (layers "*.Cu" "*.Mask")
       (net 44 "Net-(D1-A2)") (pintype "passive") (tstamp 33cd5c8d-196c-4383-8fdd-7c9b216d84f8))
+    (model "C:/Users/4iron/Documents/KiCad/7.0/3dmodels/3557.step"
+      (offset (xyz 6.75 -1.75 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:CP_Elec_8x10" (layer "F.Cu")
@@ -2996,6 +3006,11 @@
       (offset (xyz 2.539999962 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
+    )
+    (model "C:/Users/4iron/Documents/KiCad/7.0/3dmodels/TerminalBlock_bornier-2_P5.08mm.step"
+      (offset (xyz 2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
     )
   )
 
