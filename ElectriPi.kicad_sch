@@ -3248,7 +3248,7 @@
   )
 
   (symbol (lib_id "LM7310:LM73100") (at 139.7 133.35 0) (unit 1)
-    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17613ab7-86ea-46ca-b433-d8592c56d914)
     (property "Reference" "U4" (at 139.7 123.825 0)
       (effects (font (size 1.27 1.27)))
@@ -5765,7 +5765,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 116.205 127.635 180) (unit 1)
-    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e25ed76c-5112-4fc2-bff5-ef6cf50413f9)
     (property "Reference" "R9" (at 118.745 127 0)
       (effects (font (size 1.27 1.27)) (justify right))
