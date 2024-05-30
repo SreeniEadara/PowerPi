@@ -981,12 +981,10 @@
     (property "Mouser" "81-GRM31CR61A107MA8L")
     (property "Sheetfile" "ElectriPi.kicad_sch")
     (property "Sheetname" "")
-    (property "dnp" "")
-    (property "exclude_from_bom" "")
     (property "ki_description" "Unpolarized capacitor, small symbol")
     (property "ki_keywords" "capacitor cap")
     (path "/c4e2f4ef-f9a3-4cdf-9982-bbe3e657e5ec")
-    (attr smd exclude_from_bom)
+    (attr smd)
     (fp_text reference "C5" (at 0 -1.85) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2770e914-80d3-4dd3-af1e-54b239091ae8)
