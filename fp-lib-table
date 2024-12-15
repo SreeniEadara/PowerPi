@@ -3,4 +3,5 @@
   (lib (name "Logos")(type "KiCad")(uri "${KIPRJMOD}/Components/Graphics.pretty")(options "")(descr ""))
   (lib (name "FAN")(type "KiCad")(uri "${KIPRJMOD}/Components/FAN/FAN.pretty")(options "")(descr ""))
   (lib (name "RPW0010A")(type "KiCad")(uri "${KIPRJMOD}/Components/LM7310/RPW0010A.pretty")(options "")(descr ""))
+  (lib (name "PI_GPIO_PASSTHROUGH")(type "KiCad")(uri "${KIPRJMOD}/Components/PI_GPIO_PASSTHROUGH.pretty")(options "")(descr ""))
 )
