@@ -10139,7 +10139,7 @@
 				)
 			)
 		)
-		(property "Value" "282837-2"
+		(property "Value" "JST XH 01x02"
 			(at 25.7048 54.61 0)
 			(effects
 				(font
@@ -10148,7 +10148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 31.75 54.61 0)
 			(effects
 				(font
@@ -10175,7 +10175,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C592976"
+		(property "LCSC" "C24193"
 			(at 31.75 54.61 0)
 			(effects
 				(font
@@ -10184,7 +10184,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "A113320-ND"
+		(property "DigiKey" ""
 			(at 31.75 54.61 0)
 			(effects
 				(font
@@ -10193,7 +10193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "571-2828372"
+		(property "Mouser" ""
 			(at 31.75 54.61 0)
 			(effects
 				(font
@@ -12944,7 +12944,7 @@
 				)
 			)
 		)
-		(property "Value" "282837-2"
+		(property "Value" "JST XH 01x02"
 			(at 166.37 183.2102 0)
 			(effects
 				(font
@@ -12953,7 +12953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 166.37 177.165 0)
 			(effects
 				(font
@@ -12980,7 +12980,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C592976"
+		(property "LCSC" "C24193"
 			(at 166.37 177.165 0)
 			(effects
 				(font
@@ -12989,7 +12989,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "A113320-ND"
+		(property "DigiKey" ""
 			(at 166.37 177.165 0)
 			(effects
 				(font
@@ -12998,7 +12998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser" "571-2828372"
+		(property "Mouser" ""
 			(at 166.37 177.165 0)
 			(effects
 				(font
@@ -15505,7 +15505,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C22436166"
 			(at 256.54 64.77 0)
 			(effects
 				(font
