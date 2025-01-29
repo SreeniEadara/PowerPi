@@ -16621,20 +16621,8 @@
 			(justify mirror)
 		)
 	)
-	(gr_text "V3.1"
-		(at 128 97.5 270)
-		(layer "B.SilkS")
-		(uuid "70ce6e23-2e26-46d9-b525-4c3bb58f5e5c")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "ElectriPi V1.1"
-		(at 87.75 80.999996 -90)
+	(gr_text "ElectriPi V3.2"
+		(at 87.75 80.999996 270)
 		(layer "B.SilkS")
 		(uuid "7932ab34-ceca-4140-97b9-78e21afebc66")
 		(effects
